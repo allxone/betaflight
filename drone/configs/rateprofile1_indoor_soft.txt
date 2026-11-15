@@ -1,0 +1,15 @@
+# Configurazione Rateprofile 1 (GUI: Rateprofile 2) - Indoor / Gas morbido
+# Lascia intatto rateprofile 0 (originale BetaFPV).
+# Applicabile via `bf_tool.py apply configs/rateprofile1_indoor_soft.txt --save`
+# oppure da Betaflight Configurator -> CLI -> Load from file (poi `save`).
+
+rateprofile 1
+set rateprofile_name = INDOOR
+set thr_mid = 30
+set thr_expo = 55
+set throttle_limit_type = SCALE
+set throttle_limit_percent = 75
+
+# Attiva rateprofile 1
+rateprofile 1
+save

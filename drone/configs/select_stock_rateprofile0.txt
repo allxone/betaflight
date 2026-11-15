@@ -1,0 +1,3 @@
+# Attiva il Rateprofile 0 originale (GUI: Rateprofile 1)
+rateprofile 0
+save

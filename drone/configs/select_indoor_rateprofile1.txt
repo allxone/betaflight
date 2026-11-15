@@ -1,0 +1,3 @@
+# Attiva il Rateprofile 1 Indoor (GUI: Rateprofile 2)
+rateprofile 1
+save
