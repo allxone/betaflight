@@ -20,3 +20,7 @@ Support drone configuration using Gemini AI tools to improve my flight experienc
 - **OSD**: Enabled (`feature OSD`), video system `AUTO`, grid `30×13`.
 
 **Goggles**: Skyzone Cobra X V4
+
+**Batteries**: 10× LAVA 300mAh 1S LiHV 75C 3.8V 1.14Wh
+
+**Charger**: VIFLY Whoopstor 3
